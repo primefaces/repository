@@ -3,7 +3,7 @@
   <groupId>org.primefaces</groupId>
   <artifactId>primefaces</artifactId>
   <versioning>
-    <release>3.5.18-UR</release>
+    <release>4.0.2-UR</release>
     <versions>
       <version>3.5.1-UR</version>
       <version>3.5.2-UR</version>
@@ -25,7 +25,7 @@
       <version>3.5.17-UR</version>
       <version>4.0.1-UR</version>
       <version>3.5.18-UR</version>
+      <version>4.0.2-UR</version>
     </versions>
-    <lastUpdated>201311028154952</lastUpdated>
-  </versioning>
+    <lastUpdated>20131028155524</lastUpdated>
 </metadata>
